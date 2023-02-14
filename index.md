@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img src="/images/Наращивание%20изображения,%20кадрирование.jpg" alt="drawing" width="500" style='border:1px solid #000000'/>
+<img src="./images/Наращивание%20изображения,%20кадрирование.jpg" alt="drawing" width="500" style='border:1px solid #000000'/>
 
 <br>
 <br>
